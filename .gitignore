@@ -3,3 +3,4 @@ test_connection.py
 test_limit_order.py
 test_market_order.py
 .env
+.env.*
